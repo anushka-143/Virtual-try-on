@@ -3,7 +3,7 @@
 This project provides a virtual try-on experience by processing user-uploaded images of models and clothing items. The images are processed using machine learning models to generate a visualization of how the clothing items would look on the model.
 Checkpoints
 
-Download the necessary checkpoints from Hugging Face and place them in the OOTDiffusion/checkpoints directory.
+Download the necessary checkpoints from https://huggingface.co/levihsu/OOTDiffusion/tree/main/checkpoints and place them in the OOTDiffusion/checkpoints directory.
 Installation
 Setting Up the GPU Server
 
